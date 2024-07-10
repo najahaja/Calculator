@@ -24,7 +24,7 @@ This is a simple calculator web application built using React. It allows users t
 
 2.Install dependencies:
 
-  ``` bash
+  ```bash
   cd calculator-app
   npm install
 
