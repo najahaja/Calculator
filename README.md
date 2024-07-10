@@ -28,7 +28,6 @@ This is a simple calculator web application built using React. It allows users t
 
 ```bash
 npm install
-
 3.Start the development server:
 
 ```bash
