@@ -20,14 +20,17 @@ This is a simple calculator web application built using React. It allows users t
 1.Clone the repository:
 
 
-  git clone https://github.com/your-username/calculator-app.git
+ git clone https://github.com/your-username/calculator-app.git
+ cd calculator-app
+
 
 2.Install dependencies:
 
   
-  cd calculator-app
-  npm install
+ npm install
+
 
 3.Run the application:
   
-  npm start
+npm start
+
