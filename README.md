@@ -21,8 +21,13 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/calculator-app.git
-cd calculator-app
 
+nstall dependencies:
+
+```bash
+cd calculator-app
 npm install
+
+```bash
 
 npm start
