@@ -22,13 +22,11 @@ This is a simple calculator web application built using React. It allows users t
 ```bash
 git clone https://github.com/your-username/calculator-app.git
 
-
 2.Install dependencies:
 
 ```bash
 cd calculator-app
 npm install
-
 
 3.Run the application:
 
