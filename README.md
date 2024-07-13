@@ -30,4 +30,4 @@ This is a simple calculator web application built using React. It allows users t
 
 ### 3.Start the development server:
 
-        npm start
+        npm run dev
