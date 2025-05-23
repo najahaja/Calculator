@@ -21,7 +21,7 @@ This is a simple calculator web application built using React. It allows users t
 
 ### 1. Clone the repository:
 
-       git clone https://github.com/your-username/calculator-app.git
+       git clone https://github.com/najahaja/calculator-app.git
        cd calculator-app
    
 ### 2.Install dependencies:
